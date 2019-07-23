@@ -12,13 +12,8 @@ From March 2019, I enrolled in Makers Academy, a highly selective software devel
 
 ## PROJECTS:
 
-<<<<<<< HEAD
 Project title  | Description                                      | Project Timeframe | Technologies | Testing
 ------------- | ------------------------------    | ------------- |------------- |---------
-=======
-Project title  | Description  									| Project Timeframe | Technologies | Testing
-------------- | ------------------------------	| ------------- |------------- |---------
->>>>>>> 650ea91d5c88ccd9b56d134f9ee60e6773e67228
 [Breathe](https://github.com/callum-marshall/Breathe)| Concerned about the worsening levels of pollution in London, my team created an iPhone app that allows a user to see real-time pollution data around London on a tactile map. In two weeks, our team of four used an effective AGILE process to learn Swift and Xcode and various dependencies, along with TDD/BDD to drive the app's development. In this project, I led a number of stand-ups and retrospectives each day to help with daily progress. | 10 days (Team of Four) | Swift , Xcode, Mapbox, SwiftyJSON, Alamofire | Travis, SwiftLint, XCTest
 [Acebook](https://github.com/Hannah-Frost/acebook-Isambard):  Deployed at:  [hhttps://acebook-isambard.herokuapp.com/](https://acebook-isambard.herokuapp.com/) | A clone of Facebook. In two weeks we learned Ruby on Rails and Continuous Integration & Development. We followed an AGILE process to deliver an MVP to our clients. I led a number of tasks in controller logic and deployment and helped test drive the website before production. I used my experience in research and editing to quickly and effectively debug and get my team out of sticking points across the project. | 9 days (Team of Six) | Ruby , Rails,  PostgreSQL | Travis, Rspec, Capybara
 [MakersBnB](https://github.com/tsankhalpara/MakersBnB) | A clone of AirBnB. In four days, our team learned a new tech stack including Express.JS, Jasmine and Cypress for TDD, and PostgreSQL. As our first team engineering project, we experimented with pairing and mobbing in order to find what suited us best. Together we learned how to work in an AGILE way and make use of git branching.| 4 days (Team of Four) | Javascript, Node.js, Express.js, PostgreSQL | Jasmine, Cypress
